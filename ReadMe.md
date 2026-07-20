@@ -10,7 +10,9 @@
 <!-- ============ HERO ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=210&section=header&text=Anas%20Abdullah&fontSize=50&fontColor=ffffff&fontAlignY=34&desc=Senior%20Software%20Engineer%20%C2%B7%20Mobile%20%26%20Backend%20%C2%B7%20AI%20Integration%20%C2%B7%20Tech%20Lead&descSize=17&descAlignY=56&animation=fadeIn" alt="Anas Abdullah" />
+# Anas Abdullah
+
+### Senior Software Engineer &nbsp;·&nbsp; Mobile & Backend &nbsp;·&nbsp; AI Integration &nbsp;·&nbsp; Tech Lead
 
 <a href="https://github.com/anas-dev-pro">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Senior+Software+Engineer+%E2%80%94+5%2B+years;Mobile+Architect+%E2%80%94+Flutter+%2F+Dart;Backend+Engineer+%E2%80%94+Node.js+%2F+NestJS;AI+Integration+Specialist+%E2%80%94+LLMs+%2F+MCP;Available+for+roles+%26+freelance+projects" alt="Typing SVG" />
@@ -116,5 +118,3 @@ A **low-latency LAN screen-sharing suite** over WebRTC — an Electron desktop s
 <i>Mobile · Backend · AI integration · Full product delivery</i>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=110&section=footer" alt="footer" width="100%" />
