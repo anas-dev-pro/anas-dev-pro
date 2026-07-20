@@ -43,24 +43,6 @@ I lead cross-functional teams, own delivery end to end, and work directly with i
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anas-dev-pro&theme=tokyonight" alt="Profile summary" />
-
-<br><br>
-
-<img height="180" src="https://streak-stats.demolab.com/?user=anas-dev-pro&theme=tokyonight&hide_border=true" alt="Streak" />
-
-<br><br>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=anas-dev-pro&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
