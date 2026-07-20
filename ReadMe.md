@@ -1,18 +1,26 @@
 <!--
   GitHub Profile README for anas-dev-pro (Anas Abdullah).
-  Theme: gradient / semi-formal. Widget services below are confirmed reachable (HTTP 200).
-  NOTE: github-readme-stats.vercel.app is avoided on purpose — it was returning HTTP 503.
-  TODO: add a Discord link in the "Let's Connect" section when available.
+  Positioning: senior software engineer + technical lead, open to roles & freelance.
+  Theme: gradient / semi-formal. Widgets used are reliable (skillicons, capsule, typing, shields.io).
+  NOTE: GitHub "stat card" services (github-readme-stats, summary-cards, streak) are intentionally
+        avoided — they share the public GitHub API quota and rate-limit ("ERROR / temporarily rate limited").
+  TODO: add a Discord badge in "Let's Connect" when the invite/username is provided.
 -->
 
 <!-- ============ HERO ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=210&section=header&text=Anas%20Abdullah&fontSize=50&fontColor=ffffff&fontAlignY=34&desc=Technical%20Lead%20%C2%B7%20Mobile%20Architect%20%C2%B7%20AI%20Integration%20Specialist&descSize=18&descAlignY=56&animation=fadeIn" alt="Anas Abdullah" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=210&section=header&text=Anas%20Abdullah&fontSize=50&fontColor=ffffff&fontAlignY=34&desc=Senior%20Software%20Engineer%20%C2%B7%20Mobile%20%26%20Backend%20%C2%B7%20AI%20Integration%20%C2%B7%20Tech%20Lead&descSize=17&descAlignY=56&animation=fadeIn" alt="Anas Abdullah" />
 
 <a href="https://github.com/anas-dev-pro">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=680&lines=Project+Manager+%26+Technical+Lead;Mobile+Architect+%E2%80%94+Flutter+%2F+Dart;Backend+Engineer+%E2%80%94+Node.js+%2F+NestJS;AI+Integration+Specialist+%E2%80%94+LLMs+%2F+MCP" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Senior+Software+Engineer+%E2%80%94+5%2B+years;Mobile+Architect+%E2%80%94+Flutter+%2F+Dart;Backend+Engineer+%E2%80%94+Node.js+%2F+NestJS;AI+Integration+Specialist+%E2%80%94+LLMs+%2F+MCP;Available+for+roles+%26+freelance+projects" alt="Typing SVG" />
 </a>
+
+<br>
+
+<img src="https://img.shields.io/badge/Open%20to-Roles%20%26%20Freelance-8B5CF6?style=for-the-badge" alt="Open to work" />
+<img src="https://img.shields.io/badge/Experience-5%2B%20Years-1f6feb?style=for-the-badge" alt="Experience" />
+<img src="https://img.shields.io/github/followers/anas-dev-pro?style=for-the-badge&label=Followers&color=24292e&logo=github" alt="Followers" />
 
 </div>
 
@@ -20,9 +28,22 @@
 
 ## 👋 About Me
 
-I'm **Anas Abdullah** — a technical leader and **Project Manager** with **5+ years** of experience across mobile, backend, and AI engineering.
+I'm **Anas Abdullah** — a **senior software engineer** with **5+ years** designing, building, and shipping production systems across **mobile (Flutter), backend (Node.js / NestJS), and AI integrations**. Alongside hands-on engineering, I work as a **technical lead & Project Manager**, owning delivery end to end and communicating directly with international clients.
 
-I lead cross-functional teams, own delivery end to end, and work directly with international clients — translating business goals into scalable, reliable, production-grade software. I care about clean architecture, thoughtful systems, and helping developers do their best work.
+I write clean, maintainable code, design scalable architectures, integrate AI into real products, and mentor developers. Greenfield build or scaling an existing platform — I take products from **idea → architecture → production**.
+
+> 💼 **Open to senior engineering roles and freelance / contract work.** Let's build something.
+
+---
+
+## 🚀 What I Bring
+
+- 🏗️ **End-to-end delivery** — requirements & architecture → build → deployment → monitoring
+- 📱 **Production mobile apps** — Flutter apps shipped to the App Store & Google Play (Firebase, BLE, maps, push, offline)
+- ⚙️ **Scalable backends** — REST & GraphQL APIs, auth / RBAC, real-time (Socket.IO), background jobs
+- 🤖 **AI integrations** — LLMs (OpenAI, Claude, Gemini), MCP, prompt engineering, automation with n8n
+- ☁️ **DevOps** — Docker, CI/CD, NGINX, self-hosted infra on AWS / DigitalOcean / Hetzner
+- 👥 **Technical leadership** — architecture & code reviews, mentoring, sprint & release planning
 
 ---
 
@@ -43,6 +64,40 @@ I lead cross-functional teams, own delivery end to end, and work directly with i
 
 ---
 
+## 💼 Selected Work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🌾 Grain Market
+A full **bilingual (EN / اردو, RTL) management ERP** for a commodity trading business — farmer receivings, per-farmer sale settlements, unified party ledger, cash book, loans, inventory & reporting. Financial balances are computed inside DB transactions as the single source of truth.
+
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+
+  </td>
+  <td width="50%" valign="top">
+
+### 📺 ScrShare
+A **low-latency LAN screen-sharing suite** over WebRTC — an Electron desktop sender streams to a native **Android TV receiver** with sub-second latency and automatic mDNS discovery. A real-time alternative to Miracast/Cast.
+
+![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![WebRTC](https://img.shields.io/badge/-WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+  </td>
+  </tr>
+</table>
+
+**Also delivered** *(client & enterprise work, under NDA — as senior engineer / lead):*
+`Enterprise Mobile Apps` · `AI Integrations` · `HR Systems` · `Healthcare` · `Restaurant Platforms` · `Fleet Management` · `Business Automation`
+
+---
+
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -57,7 +112,8 @@ I lead cross-functional teams, own delivery end to end, and work directly with i
 
 <br><br>
 
-<i>Open to technical leadership, architecture & AI-integration conversations.</i>
+<b>💼 Available for senior developer roles & freelance projects</b><br>
+<i>Mobile · Backend · AI integration · Full product delivery</i>
 
 </div>
 
