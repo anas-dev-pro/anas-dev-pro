@@ -29,7 +29,7 @@
 
 ## 👋 About Me
 
-I'm a **senior software engineer** who somehow also became the **Project Manager** — occupational hazard, apparently. So on a good day I'm designing an architecture, reviewing a PR, unblocking a teammate, *and* telling a client "yep, Friday" (and actually meaning it).
+I'm a **senior software engineer** who put in the years to also lead as a **Project Manager** — because building great software and running the team that ships it are two different crafts, and I worked for both. So on a good day I'm designing an architecture, reviewing a PR, unblocking a teammate, *and* telling a client "yep, Friday" (and actually meaning it).
 
 **5+ years** of building mobile apps, backends, and AI features — plus leading the teams that build them. I like clean code, systems that don't fall over at 2am, and turning a vague "can you build an app that…" into something real people actually use.
 
