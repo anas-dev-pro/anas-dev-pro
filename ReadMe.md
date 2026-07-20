@@ -1,27 +1,26 @@
 <!--
   GitHub Profile README for anas-dev-pro (Anas Abdullah).
-  Positioning: senior software engineer + technical lead, open to roles & freelance.
-  Theme: gradient / semi-formal. Widgets used are reliable (skillicons, capsule, typing, shields.io).
-  NOTE: GitHub "stat card" services (github-readme-stats, summary-cards, streak) are intentionally
-        avoided — they share the public GitHub API quota and rate-limit ("ERROR / temporarily rate limited").
-  TODO: add a Discord badge in "Let's Connect" when the invite/username is provided.
+  Voice: relaxed, a little funny, confident. Blend of senior developer + project manager.
+  Only reliable widgets are used: skillicons.dev, img.shields.io, readme-typing-svg (demolab).
+  NOTE: capsule-render + all GitHub "stat card" services were removed — they intermittently
+        break through GitHub's image proxy / rate-limit.
+  TODO: add a Discord badge in "Say Hi" when the invite/username is provided.
 -->
 
-<!-- ============ HERO ============ -->
 <div align="center">
 
-# Anas Abdullah
+# Hey, I'm Anas 👋
 
-### Senior Software Engineer &nbsp;·&nbsp; Mobile & Backend &nbsp;·&nbsp; AI Integration &nbsp;·&nbsp; Tech Lead
+### Senior Engineer who also runs the sprint board &nbsp;·&nbsp; Mobile · Backend · AI
 
 <a href="https://github.com/anas-dev-pro">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Senior+Software+Engineer+%E2%80%94+5%2B+years;Mobile+Architect+%E2%80%94+Flutter+%2F+Dart;Backend+Engineer+%E2%80%94+Node.js+%2F+NestJS;AI+Integration+Specialist+%E2%80%94+LLMs+%2F+MCP;Available+for+roles+%26+freelance+projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=8B5CF6&center=true&vCenter=true&width=720&lines=I+build+the+thing+AND+ship+the+thing;Flutter+%C2%B7+Node.js+%C2%B7+NestJS+%C2%B7+a+bit+of+everything;I+turn+coffee+%2B+requirements+into+real+products;Code+reviews+by+day%2C+client+calls+by...+also+day" alt="Typing SVG" />
 </a>
 
 <br>
 
-<img src="https://img.shields.io/badge/Open%20to-Roles%20%26%20Freelance-8B5CF6?style=for-the-badge" alt="Open to work" />
 <img src="https://img.shields.io/badge/Experience-5%2B%20Years-1f6feb?style=for-the-badge" alt="Experience" />
+<img src="https://img.shields.io/badge/Hats%20Worn-Dev%20%2B%20Manager-8B5CF6?style=for-the-badge" alt="Roles" />
 <img src="https://img.shields.io/github/followers/anas-dev-pro?style=for-the-badge&label=Followers&color=24292e&logo=github" alt="Followers" />
 
 </div>
@@ -30,22 +29,21 @@
 
 ## 👋 About Me
 
-I'm **Anas Abdullah** — a **senior software engineer** with **5+ years** designing, building, and shipping production systems across **mobile (Flutter), backend (Node.js / NestJS), and AI integrations**. Alongside hands-on engineering, I work as a **technical lead & Project Manager**, owning delivery end to end and communicating directly with international clients.
+I'm a **senior software engineer** who somehow also became the **Project Manager** — occupational hazard, apparently. So on a good day I'm designing an architecture, reviewing a PR, unblocking a teammate, *and* telling a client "yep, Friday" (and actually meaning it).
 
-I write clean, maintainable code, design scalable architectures, integrate AI into real products, and mentor developers. Greenfield build or scaling an existing platform — I take products from **idea → architecture → production**.
+**5+ years** of building mobile apps, backends, and AI features — plus leading the teams that build them. I like clean code, systems that don't fall over at 2am, and turning a vague "can you build an app that…" into something real people actually use.
 
-> 💼 **Open to senior engineering roles and freelance / contract work.** Let's build something.
+If it involves **Flutter, Node, AI, or dragging an idea kicking and screaming into production** — that's my happy place. 🚀
 
 ---
 
-## 🚀 What I Bring
+## 🧰 What I Actually Do
 
-- 🏗️ **End-to-end delivery** — requirements & architecture → build → deployment → monitoring
-- 📱 **Production mobile apps** — Flutter apps shipped to the App Store & Google Play (Firebase, BLE, maps, push, offline)
-- ⚙️ **Scalable backends** — REST & GraphQL APIs, auth / RBAC, real-time (Socket.IO), background jobs
-- 🤖 **AI integrations** — LLMs (OpenAI, Claude, Gemini), MCP, prompt engineering, automation with n8n
-- ☁️ **DevOps** — Docker, CI/CD, NGINX, self-hosted infra on AWS / DigitalOcean / Hetzner
-- 👥 **Technical leadership** — architecture & code reviews, mentoring, sprint & release planning
+- 📱 **Ship Flutter apps** to the App Store & Play Store — the real kind, with users, not just demos
+- ⚙️ **Build backends that behave** — Node.js, NestJS, REST & GraphQL, real-time, auth/RBAC
+- 🤖 **Bolt AI onto products** — OpenAI, Claude, Gemini, MCP, and automations that save actual hours
+- ☁️ **Handle the unglamorous stuff** — Docker, CI/CD, NGINX, servers, deployments that don't page you at midnight
+- 🎯 **Run the whole show** — sprints, releases, clients, and the occasional herding of cats
 
 ---
 
@@ -58,7 +56,7 @@ I write clean, maintainable code, design scalable architectures, integrate AI in
 </p>
 
 <p align="center">
-  <b>Mobile</b> · Flutter, Dart, Native Integrations, BLE, Firebase &nbsp;|&nbsp;
+  <b>Mobile</b> · Flutter, Dart, BLE, Firebase &nbsp;|&nbsp;
   <b>Backend</b> · Node.js, NestJS, REST & GraphQL, Socket.IO &nbsp;|&nbsp;
   <b>AI</b> · OpenAI, Claude, Gemini, MCP, n8n &nbsp;|&nbsp;
   <b>DevOps</b> · Docker, NGINX, CI/CD, AWS
@@ -66,14 +64,14 @@ I write clean, maintainable code, design scalable architectures, integrate AI in
 
 ---
 
-## 💼 Selected Work
+## 💼 Stuff I've Built
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
 ### 🌾 Grain Market
-A full **bilingual (EN / اردو, RTL) management ERP** for a commodity trading business — farmer receivings, per-farmer sale settlements, unified party ledger, cash book, loans, inventory & reporting. Financial balances are computed inside DB transactions as the single source of truth.
+A full **bilingual (EN / اردو, RTL) trading ERP** — farmer receivings, per-farmer sale settlements, one unified ledger, cash book, loans, inventory & reports. All the money math happens inside DB transactions, so the numbers actually add up (which, for accounting software, is kind of the point).
 
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
@@ -84,7 +82,7 @@ A full **bilingual (EN / اردو, RTL) management ERP** for a commodity trading
   <td width="50%" valign="top">
 
 ### 📺 ScrShare
-A **low-latency LAN screen-sharing suite** over WebRTC — an Electron desktop sender streams to a native **Android TV receiver** with sub-second latency and automatic mDNS discovery. A real-time alternative to Miracast/Cast.
+A **low-latency LAN screen-sharing suite** over WebRTC — an Electron desktop app casts to a native **Android TV receiver** with sub-second lag and auto-discovery. Basically Miracast, but one that actually works on cheap TV boxes.
 
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/-WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
@@ -95,14 +93,15 @@ A **low-latency LAN screen-sharing suite** over WebRTC — an Electron desktop s
   </tr>
 </table>
 
-**Also delivered** *(client & enterprise work, under NDA — as senior engineer / lead):*
-`Enterprise Mobile Apps` · `AI Integrations` · `HR Systems` · `Healthcare` · `Restaurant Platforms` · `Fleet Management` · `Business Automation`
+**Plus a pile of client work I'm not allowed to name** *(NDAs, you know how it is)* — mobile apps, AI integrations, HR & healthcare systems, restaurant & fleet platforms, and a lot of business automation.
 
 ---
 
-## 🤝 Let's Connect
+## 📬 Say Hi
 
 <div align="center">
+
+Got an interesting project, a gnarly problem, or just want to talk shop? My inbox is open.
 
 <a href="https://www.linkedin.com/in/chanasabdullah">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -114,7 +113,6 @@ A **low-latency LAN screen-sharing suite** over WebRTC — an Electron desktop s
 
 <br><br>
 
-<b>💼 Available for senior developer roles & freelance projects</b><br>
-<i>Mobile · Backend · AI integration · Full product delivery</i>
+<sub>Open to senior roles & the occasional freelance project — no hard sell, I promise. 😄</sub>
 
 </div>
