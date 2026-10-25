@@ -1,118 +1,104 @@
 <!--
-  GitHub Profile README for anas-dev-pro (Anas Abdullah).
-  Voice: relaxed, a little funny, confident. Blend of senior developer + project manager.
-  Only reliable widgets are used: skillicons.dev, img.shields.io, readme-typing-svg (demolab).
-  NOTE: capsule-render + all GitHub "stat card" services were removed — they intermittently
-        break through GitHub's image proxy / rate-limit.
-  TODO: add a Discord badge in "Say Hi" when the invite/username is provided.
+  GitHub profile README for anas-dev-pro (Anas Abdullah).
+  Content mirrors anasabdullah.dev (data/profile.ts in the portfolio repo). Keep the two in sync.
+  Only reliable widgets: readme-typing-svg (demolab), img.shields.io, skillicons.dev.
 -->
 
 <div align="center">
 
-# Hey, I'm Anas 👋
+# Anas Abdullah
 
-### Senior Engineer who also runs the sprint board &nbsp;·&nbsp; Mobile · Backend · AI
+### Technical Project Manager & Software Engineer
 
-<a href="https://github.com/anas-dev-pro">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=8B5CF6&center=true&vCenter=true&width=720&lines=I+build+the+thing+AND+ship+the+thing;Flutter+%C2%B7+Node.js+%C2%B7+NestJS+%C2%B7+a+bit+of+everything;I+turn+coffee+%2B+requirements+into+real+products;Code+reviews+by+day%2C+client+calls+by...+also+day" alt="Typing SVG" />
+<a href="https://anasabdullah.dev">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1400&color=D97706&center=true&vCenter=true&width=600&lines=Software%2C+delivered.;From+idea+to+release.;Clear+plans%2C+visible+progress." alt="Software, delivered. From idea to release. Clear plans, visible progress." />
 </a>
 
-<br>
+Mobile apps, web applications, and AI automation, built with engineering depth and run with clear delivery, from the first conversation to launch.
 
-<img src="https://img.shields.io/badge/Experience-5%2B%20Years-1f6feb?style=for-the-badge" alt="Experience" />
-<img src="https://img.shields.io/badge/Hats%20Worn-Dev%20%2B%20Manager-8B5CF6?style=for-the-badge" alt="Roles" />
-<img src="https://img.shields.io/github/followers/anas-dev-pro?style=for-the-badge&label=Followers&color=24292e&logo=github" alt="Followers" />
+<p><a href="https://anasabdullah.dev"><img src="https://img.shields.io/badge/anasabdullah.dev-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Website: anasabdullah.dev" /></a>&nbsp;<a href="https://www.linkedin.com/in/chanasabdullah"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="mailto:chanasabdullah@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a></p>
 
 </div>
 
 ---
 
-## 👋 About Me
+## About
 
-I'm a **senior software engineer** who put in the years to also lead as a **Project Manager** — because building great software and running the team that ships it are two different crafts, and I worked for both. So on a good day I'm designing an architecture, reviewing a PR, unblocking a teammate, *and* telling a client "yep, Friday" (and actually meaning it).
+I started as a software engineer, building mobile apps and full-stack systems. Since joining VirtueNetz in 2022, I have moved from development into production leadership, and then into project management.
 
-**5+ years** of building mobile apps, backends, and AI features — plus leading the teams that build them. I like clean code, systems that don't fall over at 2am, and turning a vague "can you build an app that…" into something real people actually use.
+Today I work as a technical project manager, coordinating around 10 parallel software projects, working closely with developers, technical leads, QA, clients, and management. My technical background helps me understand implementation challenges while keeping a clear view of business goals.
 
-If it involves **Flutter, Node, AI, or dragging an idea kicking and screaming into production** — that's my happy place. 🚀
+I believe good delivery needs both technical understanding and clear communication. I focus on ownership, accountability, quality, and practical problem-solving.
 
----
+**Software Engineer** → **Production Lead** → **Project Manager**
 
-## 🧰 What I Actually Do
+## What I do
 
-- 📱 **Ship Flutter apps** to the App Store & Play Store — the real kind, with users, not just demos
-- ⚙️ **Build backends that behave** — Node.js, NestJS, REST & GraphQL, real-time, auth/RBAC
-- 🤖 **Bolt AI onto products** — OpenAI, Claude, Gemini, MCP, and automations that save actual hours
-- ☁️ **Handle the unglamorous stuff** — Docker, CI/CD, NGINX, servers, deployments that don't page you at midnight
-- 🎯 **Run the whole show** — sprints, releases, clients, and the occasional herding of cats
+| Area | How I help |
+|---|---|
+| **Engineering** | Mobile apps, web frontends, and backend services. I still think like a developer: clean code, clear APIs, and systems that are easy to maintain. |
+| **Delivery** | Turning requirements into plans, plans into tasks, and tasks into releases. Every milestone has a clear owner, a clear outcome, and a visible status. |
+| **Leadership** | Keeping teams aligned and unblocked. I raise risks early, follow up consistently, and explain technical matters in plain business language. |
+| **AI & automation** | Using AI where it solves real problems: assisted development, automated testing, document processing, and workflow automation. |
+| **Cloud & DevOps** | Getting software from a laptop to production: containers, servers, deployments, and CI/CD workflows. |
 
----
+## How I work
 
-## ⚙️ Tech Stack
+1. **Discovery.** Understand the problem behind the request. When something is unclear, a discovery meeting comes before any estimate.
+2. **Scope & plan.** Requirements, acceptance criteria, and a milestone plan, so everyone agrees on what "done" means.
+3. **Build in milestones.** Work is split into milestones with clear owners, so progress is visible from the first week.
+4. **Weekly updates.** A weekly client meeting on every project: progress, decisions, risks, and what comes next.
+5. **QA & approval.** QA runs during development, work moves through separate environments, and the client signs off through user acceptance testing (UAT) before release.
+6. **Launch & handover.** Release management with a checklist and a rollback plan, then a clean handover once everything is live.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,ts,nodejs,nestjs,nextjs,react,tailwind,python&perline=10" alt="Core stack" />
+## Tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,react,firebase,js,ts,nextjs,html,css&perline=11" alt="Mobile and frontend: Flutter, Dart, Kotlin, Android, React Native, Firebase, JavaScript, TypeScript, Next.js, HTML, CSS" />
   <br>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,graphql,docker,linux,aws,nginx,git&perline=10" alt="Data, DevOps & tools" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,graphql,postgres,mongodb,redis,docker,nginx,aws,git,githubactions&perline=11" alt="Backend, data and DevOps: Node.js, Python, GraphQL, PostgreSQL, MongoDB, Redis, Docker, NGINX, AWS, Git, CI/CD" />
 </p>
 
-<p align="center">
-  <b>Mobile</b> · Flutter, Dart, BLE, Firebase &nbsp;|&nbsp;
-  <b>Backend</b> · Node.js, NestJS, REST & GraphQL, Socket.IO &nbsp;|&nbsp;
-  <b>AI</b> · OpenAI, Claude, Gemini, MCP, n8n &nbsp;|&nbsp;
-  <b>DevOps</b> · Docker, NGINX, CI/CD, AWS
-</p>
+- **Mobile:** Flutter, Dart, Kotlin, Jetpack Compose, React Native, Android, iOS, Firebase
+- **Frontend:** JavaScript, TypeScript, React, Next.js, HTML, CSS
+- **Backend:** Node.js, Python, GraphQL, REST APIs
+- **Data:** PostgreSQL, MongoDB, Redis
+- **Cloud & DevOps:** Docker, NGINX, PM2, AWS, DigitalOcean, Hetzner, Git, CI/CD
+
+## Writing
+
+Notes on software delivery, leadership, and AI, from real experience:
+
+- [How to Estimate Software Development Time: My 7 Steps](https://anasabdullah.dev/writing/estimating-software-work)
+- [Free RACI Matrix Template for Software Projects](https://anasabdullah.dev/writing/raci-matrix)
+- [Project Kickoff Meeting: Agenda and Checklist](https://anasabdullah.dev/writing/project-kickoff-meeting)
+- [How I Track 10 Projects at Once: My Project Tracking System](https://anasabdullah.dev/writing/how-i-track-multiple-projects)
+- [What Is UAT? User Acceptance Testing, Explained](https://anasabdullah.dev/writing/what-is-uat)
+- [Software Engineer to Project Manager: What Actually Changed](https://anasabdullah.dev/writing/software-engineer-to-project-manager)
+
+[All articles →](https://anasabdullah.dev/writing)
+
+**Free Excel templates:** [Multi-project tracker](https://anasabdullah.dev/templates/multi-project-tracker.xlsx) · [Weekly status report](https://anasabdullah.dev/templates/weekly-status-report.xlsx) · [RACI matrix](https://anasabdullah.dev/templates/raci-matrix.xlsx)
+
+## Certifications & recognition
+
+🏆 **Diamond Star of the Year**, VirtueNetz 13th anniversary: first place in the company-wide recognition.
+
+- [Google Project Management Professional Certificate](https://www.credly.com/badges/9741a81e-1b74-457c-9916-06228bef9022/public_url), Google (Dec 2025)
+- Enhancing Leadership Skills, Pakistan Institute of Management, Lahore (Jun 2026)
+- Agile Project Management, Google (Dec 2025)
+- [Generative AI Overview for Project Managers](https://www.credly.com/users/dev.anas), Project Management Institute (Apr 2025)
+- Configuration Management and the Cloud, Google (Jul 2025)
+- Troubleshooting and Debugging Techniques, Google (Nov 2023)
+- Foundations of Cybersecurity, Google · Coursera (Sep 2023)
 
 ---
-
-## 💼 Stuff I've Built
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🌾 Grain Market
-A full **bilingual (EN / اردو, RTL) trading ERP** — farmer receivings, per-farmer sale settlements, one unified ledger, cash book, loans, inventory & reports. All the money math happens inside DB transactions, so the numbers actually add up (which, for accounting software, is kind of the point).
-
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-
-  </td>
-  <td width="50%" valign="top">
-
-### 📺 ScrShare
-A **low-latency LAN screen-sharing suite** over WebRTC — an Electron desktop app casts to a native **Android TV receiver** with sub-second lag and auto-discovery. Basically Miracast, but one that actually works on cheap TV boxes.
-
-![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![WebRTC](https://img.shields.io/badge/-WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-  </td>
-  </tr>
-</table>
-
-**Plus a pile of client work I'm not allowed to name** *(NDAs, you know how it is)* — mobile apps, AI integrations, HR & healthcare systems, restaurant & fleet platforms, and a lot of business automation.
-
----
-
-## 📬 Say Hi
 
 <div align="center">
 
-Got an interesting project, a gnarly problem, or just want to talk shop? My inbox is open.
+**Let's talk.** Have a project in mind, or want to compare notes on software delivery and AI?<br>
+Send a message and let's start a conversation.
 
-<a href="https://www.linkedin.com/in/chanasabdullah">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:chanasabdullah@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<!-- TODO: add Discord badge here once the invite/username is provided -->
-
-<br><br>
-
-<sub>Open to senior roles & the occasional freelance project — no hard sell, I promise. 😄</sub>
+[anasabdullah.dev](https://anasabdullah.dev) · [LinkedIn](https://www.linkedin.com/in/chanasabdullah) · [chanasabdullah@gmail.com](mailto:chanasabdullah@gmail.com)
 
 </div>
