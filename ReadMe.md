@@ -30,7 +30,7 @@ Today I work as a technical project manager, coordinating around 10 parallel sof
 
 I believe good delivery needs both technical understanding and clear communication. I focus on ownership, accountability, quality, and practical problem-solving.
 
-**Software Engineer** → **Production Lead** → **Project Manager**
+**Software Engineer** → **Mobile Lead → Production Lead** → **Project Manager**
 
 ## What I do
 
