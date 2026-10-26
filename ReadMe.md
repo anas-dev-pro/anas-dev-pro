@@ -69,7 +69,7 @@ I believe good delivery needs both technical understanding and clear communicati
 
 Notes on software delivery, leadership, and AI, from real experience:
 
-- [How to Estimate Software Development Time: My 7 Steps](https://anasabdullah.dev/writing/estimating-software-work)
+- [Software Development Estimation: My 7 Steps + Free Template](https://anasabdullah.dev/writing/estimating-software-work)
 - [Free RACI Matrix Template for Software Projects](https://anasabdullah.dev/writing/raci-matrix)
 - [Project Kickoff Meeting: Agenda and Checklist](https://anasabdullah.dev/writing/project-kickoff-meeting)
 - [How I Track 10 Projects at Once: My Project Tracking System](https://anasabdullah.dev/writing/how-i-track-multiple-projects)
@@ -78,7 +78,7 @@ Notes on software delivery, leadership, and AI, from real experience:
 
 [All articles →](https://anasabdullah.dev/writing)
 
-**Free Excel templates:** [Multi-project tracker](https://anasabdullah.dev/templates/multi-project-tracker.xlsx) · [Weekly status report](https://anasabdullah.dev/templates/weekly-status-report.xlsx) · [RACI matrix](https://anasabdullah.dev/templates/raci-matrix.xlsx)
+**Free Excel templates:** [Multi-project tracker](https://anasabdullah.dev/templates/multi-project-tracker.xlsx) · [Weekly status report](https://anasabdullah.dev/templates/weekly-status-report.xlsx) · [RACI matrix](https://anasabdullah.dev/templates/raci-matrix.xlsx) · [Software estimation](https://anasabdullah.dev/templates/software-estimation-template.xlsx)
 
 ## Certifications & recognition
 
